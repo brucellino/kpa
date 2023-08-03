@@ -4,3 +4,6 @@ projects/*
 !projects/example
 output/*
 !output/projects
+
+# Ignore editor cruft
+.vscode/
